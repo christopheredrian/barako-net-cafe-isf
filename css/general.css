@@ -26,3 +26,13 @@ iframe{
     height: 150px;
     width: 150px;
 }
+
+.glyphicon{
+    color: brown;
+    margin-right: 4%;
+    font-size: 1.5em;
+}
+.glyphicon-head {
+    margin-right: 0;
+    color: black;
+}
