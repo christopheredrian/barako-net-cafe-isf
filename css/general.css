@@ -38,8 +38,12 @@ iframe{
     color: black;
 }
 
-img{
+.small img{
     height: 30%;
     width: 30%;
+}
+.medium img{
+    height: 50%;
+    width: 50%;
 }
 
